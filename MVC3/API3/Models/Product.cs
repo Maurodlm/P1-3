@@ -4,10 +4,10 @@ namespace API3.Models
 {
     public enum Unitype
     {
-        Botella,
-        Metro,
-        Litro,
-        Caja
+        Botella, //0
+        Metro, //1
+        Litro, //2
+        Caja //3
     }
     public enum StatusType
     {
